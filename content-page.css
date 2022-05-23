@@ -1,0 +1,11 @@
+.content-page {
+  margin-left: 200px;
+  background-image: linear-gradient(to right, #3e452c, #e3e0cf);
+}
+
+
+@media (max-width:  600px) {
+ .content-page {
+  margin-left: 0px;
+  }
+}

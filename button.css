@@ -1,0 +1,13 @@
+.btn-lila {
+	background-color: #dcc6f1;
+	color: #b19c49;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: "RocknRoll One", sans-serif;
+	text-align: center;
+}
+
+.btn-lila hover {
+	background-color: rgb(30,30,30);
+	color: #FFC93C ;
+}
